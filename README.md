@@ -27,8 +27,20 @@ This SSIS project automates downloading, extracting, transforming, and loading W
 - Make sure your config table is populated with download URLs.
 
 ## 📸 Screenshots
+![Webpage.png](screenshots/Webpage.png)
+![ControlFlow.png](screenshots/ControlFlow.png)
+![Data.png](screenshots/Data.png)
+![DataFlow.png](screenshots/DataFlow.png)
 
-![Control Flow](screenshots/ControlFlow.png)
+![C###.png](screenshots/C###.png)
+![Config.png](screenshots/Config.png)
+
+![DomainList.png](screenshots/DomainList.png)
+![Email.png](screenshots/Email.png)
+![PackageRun.png](screenshots/PackageRun.png)
+![Success.png](screenshots/Success.png)
+![Varirable.png](screenshots/Varirable.png)
+
 
 
 > 💡 This project demonstrates advanced SSIS skills, including automation, C# scripting, and robust error handling for real-world data engineering workflows.
