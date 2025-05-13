@@ -1,0 +1,9 @@
+# Ignore build and user-specific files
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.zip
+*.rar
