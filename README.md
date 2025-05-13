@@ -28,7 +28,7 @@ This SSIS project automates downloading, extracting, transforming, and loading W
 
 ## 📸 Screenshots
 
-
+![Image](Screenshots/Screenshot 2025-05-13 033511.png)
 ---
 
 > 💡 This project demonstrates advanced SSIS skills, including automation, C# scripting, and robust error handling for real-world data engineering workflows.
