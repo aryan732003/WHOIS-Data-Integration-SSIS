@@ -27,7 +27,7 @@ This SSIS project automates downloading, extracting, transforming, and loading W
 - Make sure your config table is populated with download URLs.
 
 ## 📸 Screenshots
-_Add screenshots of control flow / data flow if you want to highlight your design._
+
 
 ---
 
